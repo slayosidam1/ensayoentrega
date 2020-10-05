@@ -1,6 +1,6 @@
 
 /**
- *  
+ *  Descripcion de un estudiante
  * 
  * @author  
  * @version  
